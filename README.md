@@ -1,2 +1,2 @@
-# C-Users-DigaoSuplementos-Desktop-Robotron2000-ALURA
-Projeto do Robroton Alura
+# Robotron 2000 - project
+Projeto desenvolvido no curso da Alura
